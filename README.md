@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Ashis Chetia 👋</h1>
 <h3 align="center">Backend Developer | System Architecture Enthusiast | Fullstack Learner</h3>
 
-<p align="center">
-  <a href="https://github.com/AshisChetia">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -55,7 +49,7 @@ My favorite project so far — a full-stack MERN application focused on clean ba
 
 ## 📫 Let's Connect
 
-- 💼 Open to learning, collaboration, and backend opportunities
+- 💼 Open to learning, collaboration, and Fullstack opportunities
 - 💬 Feel free to explore my repositories or reach out!
 <div align="center">
   <p>Let's Connect!</p>
@@ -63,9 +57,7 @@ My favorite project so far — a full-stack MERN application focused on clean ba
   <a href="https://www.linkedin.com/in/ashis-chetia-a981b1351/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ashischetia9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  
 </div>
 
 ---
