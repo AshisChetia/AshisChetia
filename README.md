@@ -1,38 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ashis Chetia 👋</h1>
+<h3 align="center">Backend Developer | System Architecture Enthusiast | Fullstack Learner</h3>
 
-I'm Ashis Chetia, a backend enthusiast based in India.
+<p align="center">
+  <a href="https://github.com/AshisChetia">
+    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-I build the engines and logic that power the web.
+---
 
-If there is data to be structured or an API to be optimized, chances are I'll dive in and fix it.
+## 🚀 About Me
 
-My main tech stack is Node.js , Express, MongoDB. My favorite tools are Postman, VsCode.
+I'm a **backend-focused developer based in India** who loves building scalable, efficient systems behind the scenes.
 
-I've got a bunch of pinned projects, but my favorite is Notes-Mern.
+- 🧠 I enjoy **designing APIs, structuring databases, and optimizing performance**
+- ⚙️ Strong interest in **system architecture & backend workflows**
+- 🛠️ I like diving deep into problems and fixing them the *right* way
+- 📈 Always learning and improving my engineering skills
 
-I love exploring system architecture.
+---
 
-Fun Facts:
+## 🧩 Tech Stack
 
-I run on tea and code ☕
+### 💻 Backend
+- **Node.js**
+- **Express.js**
+- **MongoDB**
 
-I prefer the terminal over a GUI
+### 🧰 Tools & Workflow
+- Postman
+- VS Code
+- Git & GitHub
+- Terminal (yes, over GUI 😄)
 
-GOT is my favorite show.
+---
 
-Hobbies: Coding, Gaming, and Listning music.
+## 📌 Featured Project
 
-<!--
-**AshisChetia/AshisChetia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📝 [HyperLSP](https://github.com/AshisChetia/HyperLSP)
+My favorite project so far — a full-stack MERN application focused on clean backend logic and scalable structure.
 
-Here are some ideas to get you started:
+> *Check out my pinned repositories to see more projects.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☕ Fun Facts
+
+- I run on **tea & code**
+- I prefer **terminal commands over clicking buttons**
+- **Game of Thrones** is my favorite show
+- Hobbies include **coding, gaming, and listening to music**
+
+---
+
+## 📫 Let's Connect
+
+- 💼 Open to learning, collaboration, and backend opportunities
+- 💬 Feel free to explore my repositories or reach out!
+<div align="center">
+  <p>Let's Connect!</p>
+  
+  <a href="https://www.linkedin.com/in/ashis-chetia-a981b1351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ashischetia9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider starring a repo!
+</p>
