@@ -31,7 +31,7 @@ I'm a **backend-focused developer based in India** who loves building scalable, 
 
 ## 📌 Featured Project
 
-### 📝 [HyperLSP](https://github.com/AshisChetia/HyperLSP)
+### 📝 [BookMart](https://github.com/AshisChetia/BookMart)
 My favorite project so far — a full-stack MERN application focused on clean backend logic and scalable structure.
 
 > *Check out my pinned repositories to see more projects.*
