@@ -56,6 +56,12 @@ My favorite project so far — a full-stack MERN application focused on clean ba
   
   <a href="https://www.linkedin.com/in/ashis-chetia-a981b1351/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><br><br>
+
+  <p>Check my portfolio</p>
+
+  <a href="http://portfolio-ashis.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0000ff?style=for-the-badge"/>
   </a>
   
 </div>
