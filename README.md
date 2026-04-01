@@ -60,7 +60,7 @@ My favorite project so far — a full-stack MERN application focused on clean ba
 
   <p>Check my portfolio</p>
 
-  <a href="http://portfolio-ashis.vercel.app">
+  <a href="https://ashischetia-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0000ff?style=for-the-badge"/>
   </a>
   
