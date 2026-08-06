@@ -1,14 +1,14 @@
 <h1 align="center">Hi, I'm Ashis Chetia 👋</h1>
-<h3 align="center">Backend Developer | Fullstack Learner</h3>
+<h3 align="center">Fullstack Developer | Fiverr Beginner</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **backend-focused developer based in India** who loves building scalable, efficient systems behind the scenes.
+I'm a **Fullstack Web developer based in India** who loves building scalable, efficient systems behind the scenes.
 
-- 🧠 I enjoy **designing APIs, structuring databases, and optimizing performance**
-- ⚙️ Strong interest in **system architecture & backend workflows**
+- 🧠 I enjoy **designing APIs, structuring databases, and optimizing performance as well as making beautiful UIs**
+- ⚙️ Strong interest in **system architecture & backend workflows & Stunning Visuals**
 - 🛠️ I like diving deep into problems and fixing them the *right* way
 - 📈 Always learning and improving my engineering skills
 
@@ -21,18 +21,23 @@ I'm a **backend-focused developer based in India** who loves building scalable, 
 - **Express.js**
 - **MongoDB**
 
+### 💻 Frontend
+- **React**
+- **Tailwind CSS**
+- **GSAP**
+
 ### 🧰 Tools & Workflow
 - Postman
 - VS Code
 - Git & GitHub
-- Terminal (yes, over GUI 😄)
+- Vercel
 
 ---
 
 ## 📌 Featured Project
 
-### 📝 [BookMart](https://github.com/AshisChetia/BookMart)
-My favorite project so far — a full-stack MERN application focused on clean backend logic and scalable structure.
+### 📝 [LEIMS](https://github.com/AshisChetia/Localized-Emergency-Incident-Mapping-System)
+My favorite project so far — a full-stack MERN application focused on clean Modern UI, backend logic and scalable structure.
 
 > *Check out my pinned repositories to see more projects.*
 
@@ -41,7 +46,7 @@ My favorite project so far — a full-stack MERN application focused on clean ba
 ## ☕ Fun Facts
 
 - I run on **tea & code**
-- I prefer **terminal commands over clicking buttons**
+- I prefer **scallable and production ready outputs**
 - **Game of Thrones** is my favorite show
 - Hobbies include **coding, gaming, and listening to music**
 
@@ -62,6 +67,12 @@ My favorite project so far — a full-stack MERN application focused on clean ba
 
   <a href="https://ashischetia-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0000ff?style=for-the-badge"/>
+  </a>
+
+  <p>Check my Fiverr</p>
+
+  <a href="https://www.fiverr.com/ashis_chetia/">
+    <img src="https://www.winssolutions.org/wp-content/uploads/2025/02/fiverr.png"/>
   </a>
   
 </div>
