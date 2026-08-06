@@ -67,13 +67,13 @@ My favorite project so far — a full-stack MERN application focused on clean Mo
 
   <a href="https://ashischetia-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0000ff?style=for-the-badge"/>
-  </a>
+  </a><br><br>
 
   <p>Check my Fiverr</p>
 
   <a href="https://www.fiverr.com/ashis_chetia/">
-    <img src="https://www.winssolutions.org/wp-content/uploads/2025/02/fiverr.png"/>
-  </a>
+     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+   </a>
   
 </div>
 
